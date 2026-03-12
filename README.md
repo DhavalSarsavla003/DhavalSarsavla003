@@ -1,7 +1,7 @@
 <h1 align="center">HeLLo 😊, I'm DhavaL Sarsavla</h1>
 <h3 align="center">A passionate FuLL Stack Developer From Surat</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJs**
 <hr/>
 <h2>Languages And Tools</h2>
 
